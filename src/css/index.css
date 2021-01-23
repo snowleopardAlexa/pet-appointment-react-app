@@ -1,0 +1,20 @@
+body {
+  font-weight: 200;
+  background-color: rgb(11, 167, 115);
+}
+
+header a,
+footer a {
+  color: white
+}
+
+footer {
+  font-size: 0.8rem;
+}
+
+.bg-primary, 
+.btn-primary {
+  background-color: #2ee264 !important;
+  border: inherit;
+}
+

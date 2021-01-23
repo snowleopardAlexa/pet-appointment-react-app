@@ -1,0 +1,32 @@
+[
+    {
+        "petName": "Sunlight",
+        "ownerName": "Alexa Slomski",
+        "aptNotes": "He's healthy",
+        "aptDate": "2018-11-28 12:30"
+    },
+    {
+        "petName": "Simba",
+        "ownerName": "Gustavo Makucha",
+        "aptNotes": "He needs painkillers",
+        "aptDate": "2018-05-13 5:30"
+    },
+    {
+        "petName": "Rex",
+        "ownerName": "Jack Wieczorek",
+        "aptNotes": "He needs eco",
+        "aptDate": "2018-07-16 2:30"
+    },
+    {
+        "petName": "Puma",
+        "ownerName": "Agata Pazdur",
+        "aptNotes": "He needs blood transfusion",
+        "aptDate": "2018-02-13 14:30"
+    },
+    {
+        "petName": "Snoopy",
+        "ownerName": "Anna Burdzinska",
+        "aptNotes": "He needs teeth cleaning",
+        "aptDate": "2018-08-17 8:30"
+    }
+]
