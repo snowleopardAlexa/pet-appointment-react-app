@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Pet Appointment app
 
 This is pet appointment react app project
